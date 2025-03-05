@@ -1,0 +1,222 @@
+[
+    {
+        "position": "大数据开发工程师（实习）---正式岗",
+        "salary": "200-500元/天",
+        "company": "华为",
+        "company_industry": "通信电子",
+        "company_scale": "10000人以上",
+        "description": "刚刚有人投递过, 上海",
+        "working_days": "5天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "大数据开发工程师",
+        "salary": "180-250元/天",
+        "company": "高顿教育",
+        "company_industry": "教育",
+        "company_scale": "1000-9999人",
+        "description": "寒假可投, HR今日在线, 上海, 有转正, 本科",
+        "working_days": "5天/周",
+        "duration": "最少6个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "【实习】系统软件工程师 Apache Spark Solutions",
+        "salary": "400-450元/天",
+        "company": "英伟达",
+        "company_industry": "硬件",
+        "company_scale": "1000-9999人",
+        "description": "寒假可投, 刚刚有人投递过, 上海, 本科",
+        "working_days": "4天/周",
+        "duration": "最少4个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "数据开发大数据开发工程师（实习）",
+        "salary": "200-300元/天",
+        "company": "上海非凸智能科技有限公司",
+        "company_industry": "未知",
+        "company_scale": "20-99人",
+        "description": "寒假可投, 上海, 有转正",
+        "working_days": "5天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "机器学习算法实习生",
+        "salary": "薪资面议",
+        "company": "拓竹科技",
+        "company_industry": "硬件",
+        "company_scale": "100-499人",
+        "description": "上海, 直达官网, 投后必反馈, python, pytorch",
+        "working_days": "",
+        "duration": "",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "【25届、26届】大数据开发工程师",
+        "salary": "150-300元/天",
+        "company": "中金所技术公司",
+        "company_industry": "交易所",
+        "company_scale": "100-499人",
+        "description": "兼顾学业, HR今日在线, 上海, 有转正, 硕士",
+        "working_days": "3天/周",
+        "duration": "最少2个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "阿里云 大数据系统研发",
+        "salary": "400-410元/天",
+        "company": "阿里云",
+        "company_industry": "企业服务",
+        "company_scale": "10000人以上",
+        "description": "HR今日在线, 上海, 有转正",
+        "working_days": "5天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "【实习】NPU算子开发实习",
+        "salary": "250-300元/天",
+        "company": "辉羲智能",
+        "company_industry": "零售",
+        "company_scale": "暂无",
+        "description": "寒假可投, 刚刚有人投递过, 上海, 本科",
+        "working_days": "5天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "大数据开发工程师",
+        "salary": "350-400元/天",
+        "company": "饿了么",
+        "company_industry": "消费生活",
+        "company_scale": "1000-9999人",
+        "description": "寒假可投, 上海, 有转正",
+        "working_days": "5天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "大数据开发工程师开发工程",
+        "salary": "200-300元/天",
+        "company": "西安华为技术有限公司",
+        "company_industry": "其他",
+        "company_scale": "1000-9999人",
+        "description": "寒假可投, 刚刚有人投递过, 上海, 本科",
+        "working_days": "5天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "大数据开发工程师（实习）",
+        "salary": "200-500元/天",
+        "company": "华为",
+        "company_industry": "通信电子",
+        "company_scale": "10000人以上",
+        "description": "刚刚有人投递过, 上海",
+        "working_days": "5天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "数据分析师（实习）",
+        "salary": "200-500元/天",
+        "company": "远信科技",
+        "company_industry": "互联网综合",
+        "company_scale": "暂无",
+        "description": "寒假可投, HR近期处理过简历, 上海",
+        "working_days": "5天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "数据分析师（实习）",
+        "salary": "200-500元/天",
+        "company": "木联能",
+        "company_industry": "互联网综合",
+        "company_scale": "20-99人",
+        "description": "寒假可投, HR近期处理过简历, 上海",
+        "working_days": "5天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "数据分析师（实习）",
+        "salary": "200-500元/天",
+        "company": "网班信息",
+        "company_industry": "通信电子",
+        "company_scale": "20-99人",
+        "description": "寒假可投, HR近期处理过简历, 上海",
+        "working_days": "5天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "数据分析师（实习）",
+        "salary": "200-500元/天",
+        "company": "图锐科技",
+        "company_industry": "互联网综合",
+        "company_scale": "暂无",
+        "description": "寒假可投, HR近期处理过简历, 上海",
+        "working_days": "5天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "数据分析师（实习）",
+        "salary": "200-500元/天",
+        "company": "智信恒瑞",
+        "company_industry": "企业服务",
+        "company_scale": "20-99人",
+        "description": "寒假可投, HR近期处理过简历, 上海",
+        "working_days": "5天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "数据分析师（实习）",
+        "salary": "200-500元/天",
+        "company": "硕明证券",
+        "company_industry": "证券",
+        "company_scale": "暂无",
+        "description": "寒假可投, HR近期处理过简历, 上海",
+        "working_days": "5天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "【实习】数据开发工程师",
+        "salary": "250-300元/天",
+        "company": "辉羲智能",
+        "company_industry": "零售",
+        "company_scale": "暂无",
+        "description": "寒假可投, 刚刚有人投递过, 上海, 本科",
+        "working_days": "4天/周",
+        "duration": "最少6个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "数据分析师（实习）",
+        "salary": "200-500元/天",
+        "company": "顶辉数字",
+        "company_industry": "互联网综合",
+        "company_scale": "20-99人",
+        "description": "寒假可投, HR今日在线, 上海, 有转正, 本科",
+        "working_days": "5天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "数据分析师（实习）",
+        "salary": "200-500元/天",
+        "company": "海阔集团",
+        "company_industry": "互联网综合",
+        "company_scale": "暂无",
+        "description": "寒假可投, HR近期处理过简历, 上海",
+        "working_days": "5天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "position": "大数据开发工程师（实习）---正式岗",
+        "salary": "200-500元/天",
+        "company": "华为",
+        "company_industry": "通信电子",
+        "company_scale": "10000人以上",
+        "description": "刚刚有人投递过, 上海",
+        "working_days": "5天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "数据开发实习生-国际支付-有转正机会",
+        "salary": "390-400元/天",
+        "company": "字节跳动",
+        "company_industry": "文娱内容",
+        "company_scale": "10000人以上",
+        "description": "上海",
+        "working_days": "4天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "【实习】数据开发工程师",
+        "salary": "250-300元/天",
+        "company": "辉羲智能",
+        "company_industry": "零售",
+        "company_scale": "暂无",
+        "description": "刚刚有人投递过, 上海, 本科",
+        "working_days": "4天/周",
+        "duration": "最少6个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "阿里云 大数据系统研发",
+        "salary": "400-410元/天",
+        "company": "阿里云",
+        "company_industry": "企业服务",
+        "company_scale": "10000人以上",
+        "description": "上海",
+        "working_days": "5天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "大数据开发工程师（数据工程）（实习）",
+        "salary": "300-310元/天",
+        "company": "腾讯",
+        "company_industry": "社交",
+        "company_scale": "10000人以上",
+        "description": "上海",
+        "working_days": "5天/周",
+        "duration": "最少6个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "机器学习算法实习生",
+        "salary": "薪资面议",
+        "company": "拓竹科技",
+        "company_industry": "硬件",
+        "company_scale": "100-499人",
+        "description": "上海, 直达官网, 投后必反馈, python, pytorch",
+        "working_days": "",
+        "duration": "",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "研发工程师 - 工程/算法（26校招暑期/日常实习）",
+        "salary": "薪资面议",
+        "company": "小马智行",
+        "company_industry": "人工智能",
+        "company_scale": "500-999人",
+        "description": "7日内发布, 广州/北京/上海, 直达官网, 投后必反馈, 算法",
+        "working_days": "",
+        "duration": "",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "【实习】系统软件工程师 Apache Spark Solutions",
+        "salary": "400-450元/天",
+        "company": "英伟达",
+        "company_industry": "硬件",
+        "company_scale": "1000-9999人",
+        "description": "刚刚有人投递过, 上海, 本科",
+        "working_days": "4天/周",
+        "duration": "最少4个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "【25届、26届】大数据开发工程师",
+        "salary": "150-300元/天",
+        "company": "中金所技术公司",
+        "company_industry": "交易所",
+        "company_scale": "100-499人",
+        "description": "兼顾学业, HR今日在线, 上海, 有转正, 硕士",
+        "working_days": "3天/周",
+        "duration": "最少2个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "大数据开发工程师",
+        "salary": "180-250元/天",
+        "company": "高顿教育",
+        "company_industry": "教育",
+        "company_scale": "1000-9999人",
+        "description": "HR今日在线, 上海, 有转正, 本科",
+        "working_days": "5天/周",
+        "duration": "最少6个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "大数据开发工程",
+        "salary": "150-200元/天",
+        "company": "华为",
+        "company_industry": "通信电子",
+        "company_scale": "10000人以上",
+        "description": "上海, 本科",
+        "working_days": "5天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "大数据开发工程师",
+        "salary": "200-300元/天",
+        "company": "西安华为技术有限公司",
+        "company_industry": "其他",
+        "company_scale": "1000-9999人",
+        "description": "HR今日在线, 上海, 本科",
+        "working_days": "5天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "【实习】NPU算子开发实习",
+        "salary": "250-300元/天",
+        "company": "辉羲智能",
+        "company_industry": "零售",
+        "company_scale": "暂无",
+        "description": "刚刚有人投递过, 上海, 本科",
+        "working_days": "5天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "大数据开发工程师",
+        "salary": "350-400元/天",
+        "company": "饿了么",
+        "company_industry": "消费生活",
+        "company_scale": "1000-9999人",
+        "description": "上海, 有转正, 本科",
+        "working_days": "5天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "数据开发实习生-国际支付（可转正）",
+        "salary": "200-400元/天",
+        "company": "抖音视界",
+        "company_industry": "文娱内容",
+        "company_scale": "1000-9999人",
+        "description": "上海, 有转正, 本科",
+        "working_days": "5天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "数据开发大数据开发工程师（实习）",
+        "salary": "200-300元/天",
+        "company": "上海非凸智能科技有限公司",
+        "company_industry": "未知",
+        "company_scale": "20-99人",
+        "description": "上海, 有转正, 本科",
+        "working_days": "5天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "数据分析师（实习）",
+        "salary": "200-500元/天",
+        "company": "顶辉数字",
+        "company_industry": "互联网综合",
+        "company_scale": "20-99人",
+        "description": "上海, 有转正, 本科",
+        "working_days": "5天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "数据分析师（实习）",
+        "salary": "200-500元/天",
+        "company": "图锐科技",
+        "company_industry": "互联网综合",
+        "company_scale": "暂无",
+        "description": "上海, 有转正, 本科",
+        "working_days": "5天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "数据分析师（实习）",
+        "salary": "200-500元/天",
+        "company": "远信科技",
+        "company_industry": "互联网综合",
+        "company_scale": "暂无",
+        "description": "上海, 有转正, 本科",
+        "working_days": "5天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    },
+    {
+        "position": "数据分析师-25届",
+        "salary": "200-400元/天",
+        "company": "拼多多集团-PDD",
+        "company_industry": "电商",
+        "company_scale": "1000-9999人",
+        "description": "上海, 有转正, 本科",
+        "working_days": "5天/周",
+        "duration": "最少3个月",
+        "page_type": "intern_recruitment"
+    }
+]
