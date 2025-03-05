@@ -99,6 +99,12 @@ lpush zhipin:start_urls "https://www.zhipin.com/web/geek/job?query=大数据&cit
    - 高频请求可能触发验证码，需结合请求频率控制和验证码识别方案  
 
 ---
+### 5 查询
+**注意**：需要先启动Elasticsearch容器
+```bash 
+cd .\query-es
+bash run_query.sh
+```
 
 ## 🌈 贡献与支持  
 🤝 **欢迎贡献**：  
