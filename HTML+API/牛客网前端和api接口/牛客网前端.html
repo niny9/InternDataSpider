@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>牛客网岗位查询</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.2/dist/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h2>牛客网岗位查询</h2>
+            <div class="form-group">
+                <label for="jobName">期望岗位</label>
+                <input type="text" class="form-control" id="jobName" placeholder="例如: 数据分析师">
+            </div>
+            <div class="form-group">
+                <label for="description">岗位描述</label>
+                <input type="text" class="form-control" id="description" placeholder="例如: 地点、城市等">
+            </div>
+            <div class="form-group">
+                <label for="company_industry">公司行业</label>
+                <input type="text" class="form-control" id="company_industry" placeholder="例如: 互联网">
+            </div>
+            <div class="form-group">
+                <label for="company_Scale">公司规模</label>
+                <select class="form-control" id="company_Scale">
+                    <option value="">不限</option>
+                    <option value="0-20人">0-20人</option>
+                    <option value="20-99人">20-99人</option>
+                    <option value="100-499人">100-499人</option>
+                    <option value="500-999人">500-999人</option>
+                    <option value="1000-9999人">1000-9999人</option>
+                    <option value="10000人以上">10000人以上</option>
+                </select>
+            </div>
+             <div class="form-group">
+                <label for="salary">薪资待遇</label>
+                <select class="form-control" id="salary">
+                    <option value="">不限</option>
+                    <option value="3k以下">3k以下</option>
+                    <option value="3-5k">3-5k</option>
+                    <option value="5-10k">5-10k</option>
+                    <option value="10-20k">10-20k</option>
+                    <option value="20-50k">20-50k</option>
+                    <option value="50k以上">50k以上</option>
+                </select>
+            </div>
+
+        <!-- 职位类型选择 -->
+        <div class="form-group">
+            <label for="jobType">选择职位类型</label>
+            <select class="form-control" id="jobType">
+                <option value="">请选择职位类型</option>
+                <option value="school_recruitment">校招</option>
+                <option value="fulltime_recruitment">社招</option>
+                <option value="intern_recruitment">实习</option>
+            </select>
+        </div>
+
+        <!-- 筛选表单 -->
+        <form id="searchForm">
+            <!-- 校招筛选条件 -->
+            <div id="campusRecruitment" class="filter-group" style="display: none;">
+                <div class="form-group">
+                    <label for="graduationYear">毕业年份</label>
+                    <input type="text" class="form-control" id="graduationYear" placeholder="例如: 2024">
+                </div>
+                <div class="form-group">
+                <label for="degree">学历要求</label>
+                <select class="form-control" id="degree">
+                    <option value="">不限</option>
+                    <option value="初中及以下">初中及以下</option>
+                    <option value="中专/中技">中专/中技</option>
+                    <option value="高中">高中</option>
+                    <option value="大专">大专</option>
+                    <option value="本科">本科</option>
+                    <option value="硕士">硕士</option>
+                    <option value="博士">博士</option>
+                </select>
+            </div>
+            </div>
+
+            <!-- 实习筛选条件 -->
+            <div id="internship" class="filter-group" style="display: none;">
+                <div class="form-group">
+                    <label for="workingDays">每周工作天数</label>
+                    <select class="form-control" id="workingDays" >
+                        <option value="">不限</option>
+                        <option value="1天/周">1天/周</option>
+                        <option value="2天/周">2天/周</option>
+                        <option value="3天/周">3天/周</option>
+                        <option value="4天/周">4天/周</option>
+                        <option value="5天/周">5天/周</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="duration">实习时长</label>
+                    <select class="form-control" id="duration" >
+                        <option value="">不限</option>
+                        <option value="最少2个月">最少2个月</option>
+                        <option value="最少3个月">最少3个月</option>
+                        <option value="最少4个月">最少4个月</option>
+                        <option value="最少5个月">最少5个月</option>
+                        <option value="最少6个月">最少6个月</option>
+                    </select>
+                </div>
+            </div>
+
+            <!-- 社招筛选条件 -->
+            <div id="socialRecruitment" class="filter-group" style="display: none;">
+                <div class="form-group">
+                <label for="experience">工作经验</label>
+                <select class="form-control" id="experience">
+                    <option value="">不限</option>
+                    <option value="经验不限">经验不限</option>
+                    <option value="应届生">应届生</option>
+                    <option value="1-3年">1-3年</option>
+                    <option value="3-5年">3-5年</option>
+                    <option value="5-10年">5-10年</option>
+                    <option value="10年以上">10年以上</option>
+                </select>
+            </div>
+                <label for="degree">学历要求</label>
+                <select class="form-control" id="education">
+                    <option value="">不限</option>
+                    <option value="初中及以下">初中及以下</option>
+                    <option value="中专/中技">中专/中技</option>
+                    <option value="高中">高中</option>
+                    <option value="大专">大专</option>
+                    <option value="本科">本科</option>
+                    <option value="硕士">硕士</option>
+                    <option value="博士">博士</option>
+                </select>
+            </div>
+
+            <button type="submit" class="btn btn-primary">搜索</button>
+        </form>
+
+        <!-- 搜索结果展示区域 -->
+        <div id="result" class="mt-4"></div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+    <script>
+        // 当选择职位类型时，动态显示/隐藏筛选表单
+        $('#jobType').on('change', function() {
+            const jobType = $(this).val();
+            if (jobType === 'school_recruitment') {
+                $('#campusRecruitment').show();
+                $('#internship').hide();
+                $('#socialRecruitment').hide();
+            } else if (jobType === 'intern_recruitment') {
+                $('#campusRecruitment').hide();
+                $('#internship').show();
+                $('#socialRecruitment').hide();
+            } else if (jobType === 'fulltime_recruitment') {
+                $('#campusRecruitment').hide();
+                $('#internship').hide();
+                $('#socialRecruitment').show();
+            } else {
+                $('#campusRecruitment').hide();
+                $('#internship').hide();
+                $('#socialRecruitment').hide();
+            }
+        });
+
+        $('#searchForm').on('submit', function(e) {
+    e.preventDefault();
+
+    const jobType = $('#jobType').val();
+    const jobName = $('#jobName').val().trim().toLowerCase();
+    const description = $('#description').val().trim().toLowerCase();
+    const companyIndustry = $('#company_industry').val().trim().toLowerCase();
+    const companyScale = $('#company_Scale').val().trim().toLowerCase();
+    const salary = $('#salary').val().trim().toLowerCase();
+    const graduationYear = $('#graduationYear').val().trim();
+    const degree = $('#degree').val().trim();
+    const experience = $('#experience').val().trim();
+    const education = $('#education').val().trim();
+    const workingDays = $('#workingDays').val().trim().toLowerCase();
+    const duration = $('#duration').val().trim().toLowerCase();
+
+    const url = `/api/search?jobType=${encodeURIComponent(jobType)}&jobName=${encodeURIComponent(jobName)}&description=${encodeURIComponent(description)}&company_industry=${encodeURIComponent(companyIndustry)}&company_Scale=${encodeURIComponent(companyScale)}&salary=${encodeURIComponent(salary)}&graduationYear=${encodeURIComponent(graduationYear)}&degree=${encodeURIComponent(degree)}&experience=${encodeURIComponent(experience)}&education=${encodeURIComponent(education)}&workingDays=${encodeURIComponent(workingDays)}&duration=${encodeURIComponent(duration)}`;
+
+    $.ajax({
+        url: 'http://localhost:5000/api/search',
+        method: 'GET',
+        success: function(data) {
+            if (data.length === 0) {
+                $('#result').html('<p>没有找到符合条件的岗位。</p>');
+                return;
+            }
+
+            let resultHtml = '<h3>搜索结果：</h3><ul>';
+            data.forEach(job => {
+                resultHtml += `<li><a href="${job.url}" target="_blank">${job.position}</a><br/>${job.company} - ${job.salary}</li>`;
+            });
+            resultHtml += '</ul>';
+            $('#result').html(resultHtml);
+        },
+        error: function() {
+            $('#result').html('<p>请求数据时发生错误，请重试。</p>');
+        }
+    });
+});
+    </script>
+</body>
+</html>
